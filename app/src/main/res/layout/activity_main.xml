@@ -28,7 +28,7 @@
         android:layout_height="150dp"
         android:src="@drawable/me"
         android:layout_marginTop="15dp"
-        android:layout_below="@+id/firstText"
+        android:layout_below="@id/firstText"
         />
 
     <TextView
@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Emmanuel"
-        android:layout_below="@+id/image"
+        android:layout_below="@id/image"
         android:textSize="20sp"
         android:textColor="#000"
         android:layout_marginTop="5dp"
@@ -50,7 +50,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="basseyemmanuel123@gmail.com"
-        android:layout_below="@+id/secondText"
+        android:layout_below="@id/secondText"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
         android:textColor="#4251A3"
@@ -62,7 +62,7 @@
         android:layout_height="wrap_content"
         android:text="I am an android developer and a web developer"
         android:textColor="#000"
-        android:layout_below="@+id/email"
+        android:layout_below="@id/email"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"/>
 
@@ -71,7 +71,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/ic_schedule_black_24dp"
-        android:layout_below="@+id/about"
+        android:layout_below="@id/about"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="12dp"
         />
@@ -82,7 +82,7 @@
         android:layout_height="wrap_content"
         android:text="Joined 2019"
         android:layout_below="@+id/about"
-        android:layout_toRightOf="@+id/schedule"
+        android:layout_toRightOf="@id/schedule"
         android:layout_marginTop="12dp"
         android:layout_marginLeft="16dp"
         />
@@ -121,7 +121,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="bjgfhjbhbgfhbhgfhbhbgvhbhbgvhbghbhbghhhgfhhhbgvhbghbhghbghbghbghbgvhjbghghghg"
-            android:layout_below="@+id/image2"
+            android:layout_below="@id/image2"
             android:padding="5dp"
             />
 
@@ -149,7 +149,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="bjgfhjbhbgfhbhgfhbhbgvhbhbgvhbghbhbghhhgfhhhbgvhbghbhghbghbghbghbgvhjbghghghg"
-            android:layout_below="@+id/image3"
+            android:layout_below="@id/image3"
             android:padding="5dp"
             />
 
