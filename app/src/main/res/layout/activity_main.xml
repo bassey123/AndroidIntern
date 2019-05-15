@@ -91,7 +91,7 @@
         android:id="@+id/apps_built"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="100 Apps Built"
+        android:text="100 Apps Built and 200 Websites Built"
         android:layout_below="@id/joined"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="15dp"
@@ -120,7 +120,7 @@
             android:id="@+id/text2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="bjgfhjbhbgfhbhgfhbhbgvhbhbgvhbghbhbghhhgfhhhbgvhbghbhghbghbghbghbgvhjbghghghg"
+            android:text="I am an android developer and a web developer. I am an android developer and a web developer."
             android:layout_below="@id/image2"
             android:padding="5dp"
             />
@@ -148,7 +148,7 @@
             android:id="@+id/text3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="bjgfhjbhbgfhbhgfhbhbgvhbhbgvhbghbhbghhhgfhhhbgvhbghbhghbghbghbghbgvhjbghghghg"
+            android:text="I am an android developer and a web developer. I am an android developer and a web developer."
             android:layout_below="@id/image3"
             android:padding="5dp"
             />

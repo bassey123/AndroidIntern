@@ -1,5 +1,6 @@
 package com.example.androidintern;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -34,7 +35,8 @@ public class Activity2 extends AppCompatActivity {
                 if (email.isEmpty() || phone.isEmpty()) {
                     return;
                 } else {
-                    Toast.makeText(Activity2.this, "Your Email is: " + email + " " + "Your Phone Number is: " + phone, Toast.LENGTH_LONG).show();
+                    startActivity(new Intent(Activity2.this, Main3Activity.class));
+                    Toast.makeText(Activity2.this, "Your Email is: " + email + " " + "Your Phone Number is: " + phone, Toast.LENGTH_SHORT).show();
                 }
             }
         });
