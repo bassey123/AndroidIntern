@@ -40,7 +40,7 @@
         android:textSize="20sp"
         android:textColor="#000"
         android:layout_marginTop="5dp"
-        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
         android:textStyle="bold"/>
 
 
